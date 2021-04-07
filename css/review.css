@@ -52,3 +52,9 @@
 .reviews .swiper-pagination-bullet-active{
     background-color: #E2B024;
 }
+.review__photo{
+    transition: .5s;
+}
+.review__photo:hover{
+    transform: scale(1.2);
+}

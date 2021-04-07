@@ -40,7 +40,10 @@
     font-weight: 500;
     font-size: 24px;
     color: #1F1F1F;
-    margin-right: 61px;
+    margin-right: 50px;
+}
+form{
+    max-width: 233px;
 }
 .underhero__button__black{
     height: 69px;

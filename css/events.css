@@ -41,6 +41,9 @@
     font-size: 18px;
     font-weight: 400;
 }
+.events__more:hover{
+    color: black;
+}
 .featured__events{
     justify-content: center;
     font-family: "ChocolateBox";

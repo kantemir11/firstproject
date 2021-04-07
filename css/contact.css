@@ -51,10 +51,24 @@
 .contact__icn{
     margin-right: 56px;
     margin-top: 60px;
-    transition: 2s;
+    transition: 1s;
 }
 .contact__icn:hover{
     transform: rotateY(360deg);
+}
+.contact__img{
+    transition: 1s;
+}
+.contact__img:hover{
+    transform: rotateY(360deg);
+}
+.contact__info{
+    color: white;
+    text-decoration: none;
+    transition: .5s;
+}
+.contact__info:hover{
+    color: #E2B024;
 }
 .contact__content .futuredproducts{
     margin-top: 150px;
