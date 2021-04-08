@@ -12,7 +12,8 @@
     font-weight: 400;
 }
 .footer__title:hover{
-    transform: scale(1.2);
+    color: white;
+    text-decoration: underline;
 }
 .footer__info{
     color: white;
