@@ -116,3 +116,11 @@
         padding: 0 8px;
     }
 }
+@media screen and (max-width: 650px) {
+    .events__image{
+       display: none;
+    }
+    .events__right{
+        max-width: 50%;
+    }
+}

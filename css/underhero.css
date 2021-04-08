@@ -30,6 +30,7 @@
     font-weight: 300;
     font-size: 18px;
     margin-bottom: 64px;
+
 }
 .underhero__button{
     height: 69px;
@@ -72,7 +73,7 @@ form{
 }
 .underhero__img{
     position: absolute;
-    left: 187px;
+    left: 33%;
 }
 .underhero__left{
     margin-right: 5px;
@@ -112,6 +113,9 @@ form{
     transition: .5s;
 }
 @media screen and (max-width:1150px) {
+    .underhero__info{
+        max-width: 50%;
+    }
     .underhero__left{
         max-width:80%;
     }
@@ -119,4 +123,9 @@ form{
         max-width: 80%;
     }
   
+}
+@media screen and (max-width:450px) {
+.underhero__img{
+    left: 12%;
+}
 }

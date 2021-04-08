@@ -61,4 +61,7 @@ input {
     .newsletter__label{
         width:64px;
     }
-}
+    .newsletter__label{
+        font-size: 12px;
+    }
+}   

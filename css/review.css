@@ -1,6 +1,6 @@
 .review{
     background: url(../img/review_bg.png) center no-repeat; 
-    min-height: 774px; 
+    min-height: 774px;
 }
 .review__opacity{
     background: rgba(0, 0, 0, 0.8);
